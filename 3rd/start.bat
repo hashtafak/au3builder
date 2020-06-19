@@ -1,0 +1,1 @@
+Start /b AutoIt3.exe script.a3x
